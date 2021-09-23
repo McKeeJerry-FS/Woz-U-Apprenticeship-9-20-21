@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\bin\Debug\net5.0\Counting.exe
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\bin\Debug\net5.0\Counting.deps.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\bin\Debug\net5.0\Counting.runtimeconfig.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\bin\Debug\net5.0\Counting.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\bin\Debug\net5.0\Counting.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\bin\Debug\net5.0\ref\Counting.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\bin\Debug\net5.0\Counting.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\obj\Debug\net5.0\Counting.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\obj\Debug\net5.0\Counting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\obj\Debug\net5.0\Counting.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\obj\Debug\net5.0\Counting.AssemblyInfo.cs
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\obj\Debug\net5.0\Counting.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\obj\Debug\net5.0\Counting.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\obj\Debug\net5.0\ref\Counting.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\obj\Debug\net5.0\Counting.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Counting\Counting\obj\Debug\net5.0\Counting.genruntimeconfig.cache
