@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\bin\Debug\net5.0\CountYourLetters.exe
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\bin\Debug\net5.0\CountYourLetters.deps.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\bin\Debug\net5.0\CountYourLetters.runtimeconfig.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\bin\Debug\net5.0\CountYourLetters.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\bin\Debug\net5.0\CountYourLetters.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\bin\Debug\net5.0\ref\CountYourLetters.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\bin\Debug\net5.0\CountYourLetters.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.AssemblyInfo.cs
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\obj\Debug\net5.0\ref\CountYourLetters.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.genruntimeconfig.cache
