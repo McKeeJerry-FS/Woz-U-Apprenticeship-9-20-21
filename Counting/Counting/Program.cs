@@ -28,7 +28,7 @@ namespace Counting
 
         static string CreateALine(int number)
         {
-            string numberAsString = $"{number} ";
+            string convertNumberString = $"{number} ";
             // using a stringbuilder to create variable to hold text
             System.Text.StringBuilder sb = new System.Text.StringBuilder(50);
             // running a loop

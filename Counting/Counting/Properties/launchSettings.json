@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Counting": {
+      "commandName": "Project",
+      "commandLineArgs": "7"
+    },
+    "SomeOperations": {
+      "commandName": "Project"
+    }
+  }
+}
