@@ -104,7 +104,7 @@ namespace ProcessInvoices
 
                         date = DateTime.Now;
                         // This line of code will write out the results to the console
-                        Console.WriteLine(value: $"Invoice Number: {invoiceNumber}; Invoice Due Date: {invoiceDueDate.ToShortDateString()}; Amount Due: ${bill,10}; Days Late: {(date - invoiceDueDate).Days,5}; Late Fee: ${ComputeLateFees(date, invoiceDueDate, bill):0.00}");
+                        Console.WriteLine(value: $"Invoice Number: {invoiceNumber}; Invoice Due Date: {invoiceDueDate.ToShortDateString()}; Amount Due: ${bill}; Days Late: {(date - invoiceDueDate).Days}; Late Fee: ${ComputeLateFees(date, invoiceDueDate, bill):0.00}");
                     }
 
 
