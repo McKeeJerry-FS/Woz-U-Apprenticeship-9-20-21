@@ -2,6 +2,14 @@
 using System.Collections.Generic;
 using System.IO;
 
+/*
+ * Jerry McKee Jr.
+ * September 23, 2021
+ * Woz-U/Infosys Appenticeship
+ * Lesson 4: Problem 2
+ * Last Update: 09/23/2021 @ 4:04 PM
+*/ 
+
 namespace ProcessInvoices
 {
     class Program
