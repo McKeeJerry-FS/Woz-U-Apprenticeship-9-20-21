@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\bin\Debug\net5.0\Lesson1ConceptPractice.exe
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\bin\Debug\net5.0\Lesson1ConceptPractice.deps.json
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\bin\Debug\net5.0\Lesson1ConceptPractice.runtimeconfig.json
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\bin\Debug\net5.0\Lesson1ConceptPractice.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\bin\Debug\net5.0\Lesson1ConceptPractice.dll
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\bin\Debug\net5.0\ref\Lesson1ConceptPractice.dll
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\bin\Debug\net5.0\Lesson1ConceptPractice.pdb
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\obj\Debug\net5.0\Lesson1ConceptPractice.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\obj\Debug\net5.0\Lesson1ConceptPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\obj\Debug\net5.0\Lesson1ConceptPractice.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\obj\Debug\net5.0\Lesson1ConceptPractice.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\obj\Debug\net5.0\Lesson1ConceptPractice.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\obj\Debug\net5.0\Lesson1ConceptPractice.dll
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\obj\Debug\net5.0\ref\Lesson1ConceptPractice.dll
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\obj\Debug\net5.0\Lesson1ConceptPractice.pdb
+C:\Users\USER\source\repos\Lesson1ConceptPractice\Lesson1ConceptPractice\obj\Debug\net5.0\Lesson1ConceptPractice.genruntimeconfig.cache

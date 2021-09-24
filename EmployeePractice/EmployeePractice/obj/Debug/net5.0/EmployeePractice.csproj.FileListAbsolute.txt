@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\EmployeePractice.exe
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\EmployeePractice.deps.json
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\EmployeePractice.runtimeconfig.json
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\EmployeePractice.runtimeconfig.dev.json
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\EmployeePractice.dll
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\ref\EmployeePractice.dll
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\bin\Debug\net5.0\EmployeePractice.pdb
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.AssemblyInfo.cs
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.dll
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\ref\EmployeePractice.dll
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.pdb
+C:\Users\USER\source\repos\EmployeePractice\EmployeePractice\obj\Debug\net5.0\EmployeePractice.genruntimeconfig.cache

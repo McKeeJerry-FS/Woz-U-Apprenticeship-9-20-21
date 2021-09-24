@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\bin\Debug\net5.0\DebuggingPractice.exe
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\bin\Debug\net5.0\DebuggingPractice.deps.json
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\bin\Debug\net5.0\DebuggingPractice.runtimeconfig.json
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\bin\Debug\net5.0\DebuggingPractice.runtimeconfig.dev.json
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\bin\Debug\net5.0\DebuggingPractice.dll
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\bin\Debug\net5.0\ref\DebuggingPractice.dll
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\bin\Debug\net5.0\DebuggingPractice.pdb
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\obj\Debug\net5.0\DebuggingPractice.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\obj\Debug\net5.0\DebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\obj\Debug\net5.0\DebuggingPractice.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\obj\Debug\net5.0\DebuggingPractice.AssemblyInfo.cs
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\obj\Debug\net5.0\DebuggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\obj\Debug\net5.0\DebuggingPractice.dll
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\obj\Debug\net5.0\ref\DebuggingPractice.dll
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\obj\Debug\net5.0\DebuggingPractice.pdb
+C:\Users\USER\source\repos\DebuggingPractice\DebuggingPractice\obj\Debug\net5.0\DebuggingPractice.genruntimeconfig.cache
