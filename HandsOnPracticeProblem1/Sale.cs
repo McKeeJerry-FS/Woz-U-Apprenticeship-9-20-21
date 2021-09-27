@@ -10,6 +10,7 @@ namespace HandsOnPracticeProblem1
     // Project 1
     public class Sale
     {
+        // Fields and Properties
         public string Employee { get; set; }
         public decimal SalesAmount { get; set; }
         private decimal _commissionRate { get; set; }
@@ -18,6 +19,7 @@ namespace HandsOnPracticeProblem1
             get { return SalesAmount * _commissionRate;  }
         }
 
+        // Constructor (1)
         public Sale(string Employee, decimal SalesAmount, decimal _commissionRate)
         {
             this.Employee = Employee;
@@ -25,6 +27,7 @@ namespace HandsOnPracticeProblem1
             this._commissionRate = _commissionRate;
         }
 
+        // Constructor (2)
         public Sale(string Employee, decimal SalesAmount)
         {
             this.Employee = Employee;
@@ -32,22 +35,7 @@ namespace HandsOnPracticeProblem1
             this._commissionRate = .03m;
         }
 
-        public string SalesTotal(decimal a, decimal b)
-        {
-            string message = "";
-            if (Employee == Employee)
-            {
-                decimal salesAmountSum = SalesAmount + SalesAmount;
-                message = salesAmountSum.ToString();
-            }
-            else
-            {
-                message = "Can only add sale objects if the employee is the same. In this case left = \"One\" and Right = \"Two\"";
-            }
-
-            return message;
-        }
-
+        // This method sets up the Exceptions and setting up the data for the Main() Method in the Program Class
         public Sale(string csv)
         {
             
@@ -73,11 +61,14 @@ namespace HandsOnPracticeProblem1
 
         }
 
+        // This override method returns the string format that will be written to the console
         public override string ToString()
         {
             return $"Employee: {Employee,10} Sale Amount: {SalesAmount,15} Rate: {_commissionRate,10} Commission: {Commission}";
         }
 
+
+        // This method is the math to figure out total sales and the combined Commission Rate
         public static Sale operator +(Sale left, Sale right)
         {
             if (left.Employee != right.Employee)
