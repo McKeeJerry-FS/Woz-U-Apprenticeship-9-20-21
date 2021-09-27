@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\bin\Debug\net5.0\HandsOnPracticeProblem1.exe
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\bin\Debug\net5.0\HandsOnPracticeProblem1.deps.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\bin\Debug\net5.0\HandsOnPracticeProblem1.runtimeconfig.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\bin\Debug\net5.0\HandsOnPracticeProblem1.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\bin\Debug\net5.0\HandsOnPracticeProblem1.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\bin\Debug\net5.0\ref\HandsOnPracticeProblem1.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\bin\Debug\net5.0\HandsOnPracticeProblem1.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\obj\Debug\net5.0\HandsOnPracticeProblem1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\obj\Debug\net5.0\HandsOnPracticeProblem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\obj\Debug\net5.0\HandsOnPracticeProblem1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\obj\Debug\net5.0\HandsOnPracticeProblem1.AssemblyInfo.cs
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\obj\Debug\net5.0\HandsOnPracticeProblem1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\obj\Debug\net5.0\HandsOnPracticeProblem1.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\obj\Debug\net5.0\ref\HandsOnPracticeProblem1.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\obj\Debug\net5.0\HandsOnPracticeProblem1.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\HandsOnPracticeProblem1\obj\Debug\net5.0\HandsOnPracticeProblem1.genruntimeconfig.cache
