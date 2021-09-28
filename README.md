@@ -15,6 +15,7 @@ Table of contents for this repo so that it will be easier to find the references
 *  SumIntegers - Lesson 3
 *  ProcessInvoices - Lesson 4
 *  HandsOnPracticeProblem1 - Lesson 5
+*  Lesson_6_Hands_On_Practice - Lesson 6
 
 ### end of table of contents
 updated 09/27/2021
