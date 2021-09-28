@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\bin\Debug\net5.0\CollectionTesting_Lesson_7_Example.exe
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\bin\Debug\net5.0\CollectionTesting_Lesson_7_Example.deps.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\bin\Debug\net5.0\CollectionTesting_Lesson_7_Example.runtimeconfig.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\bin\Debug\net5.0\CollectionTesting_Lesson_7_Example.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\bin\Debug\net5.0\CollectionTesting_Lesson_7_Example.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\bin\Debug\net5.0\ref\CollectionTesting_Lesson_7_Example.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\bin\Debug\net5.0\CollectionTesting_Lesson_7_Example.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\obj\Debug\net5.0\CollectionTesting_Lesson_7_Example.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\obj\Debug\net5.0\CollectionTesting_Lesson_7_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\obj\Debug\net5.0\CollectionTesting_Lesson_7_Example.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\obj\Debug\net5.0\CollectionTesting_Lesson_7_Example.AssemblyInfo.cs
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\obj\Debug\net5.0\CollectionTesting_Lesson_7_Example.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\obj\Debug\net5.0\CollectionTesting_Lesson_7_Example.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\obj\Debug\net5.0\ref\CollectionTesting_Lesson_7_Example.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\obj\Debug\net5.0\CollectionTesting_Lesson_7_Example.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\CollectionTesting_Lesson_7_Example\obj\Debug\net5.0\CollectionTesting_Lesson_7_Example.genruntimeconfig.cache
