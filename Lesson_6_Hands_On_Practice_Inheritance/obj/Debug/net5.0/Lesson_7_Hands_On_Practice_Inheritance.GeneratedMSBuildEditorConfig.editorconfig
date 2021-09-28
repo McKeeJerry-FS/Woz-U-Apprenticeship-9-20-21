@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Lesson_7_Hands_On_Practice_Inheritance
+build_property.ProjectDir = C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\

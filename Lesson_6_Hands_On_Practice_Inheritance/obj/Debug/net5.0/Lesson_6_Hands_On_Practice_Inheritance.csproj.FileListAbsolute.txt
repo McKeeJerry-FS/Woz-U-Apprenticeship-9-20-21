@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\bin\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.exe
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\bin\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.deps.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\bin\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.runtimeconfig.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\bin\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\bin\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\bin\Debug\net5.0\ref\Lesson_6_Hands_On_Practice_Inheritance.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\bin\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\obj\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\obj\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\obj\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\obj\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.AssemblyInfo.cs
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\obj\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\obj\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\obj\Debug\net5.0\ref\Lesson_6_Hands_On_Practice_Inheritance.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\obj\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_6_Hands_On_Practice_Inheritance\obj\Debug\net5.0\Lesson_6_Hands_On_Practice_Inheritance.genruntimeconfig.cache

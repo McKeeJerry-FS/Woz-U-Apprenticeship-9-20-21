@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lesson_6_Hands_On_Practice_Inheritance/1.0.0": {
+        "runtime": {
+          "Lesson_6_Hands_On_Practice_Inheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_6_Hands_On_Practice_Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
