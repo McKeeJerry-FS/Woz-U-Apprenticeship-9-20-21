@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\bin\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.exe
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\bin\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.deps.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\bin\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.runtimeconfig.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\bin\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\bin\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\bin\Debug\net5.0\ref\Lesson_8_Hands_On_Practice_Interface.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\bin\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\obj\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\obj\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\obj\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\obj\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.AssemblyInfo.cs
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\obj\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\obj\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\obj\Debug\net5.0\ref\Lesson_8_Hands_On_Practice_Interface.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\obj\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Lesson_8_Hands_On_Practice_Interface\obj\Debug\net5.0\Lesson_8_Hands_On_Practice_Interface.genruntimeconfig.cache
