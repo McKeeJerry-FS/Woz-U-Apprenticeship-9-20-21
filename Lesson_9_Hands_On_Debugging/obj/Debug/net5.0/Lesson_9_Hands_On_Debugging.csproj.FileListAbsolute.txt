@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\bin\Debug\net5.0\Lesson_9_Hands_On_Debugging.exe
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\bin\Debug\net5.0\Lesson_9_Hands_On_Debugging.deps.json
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\bin\Debug\net5.0\Lesson_9_Hands_On_Debugging.runtimeconfig.json
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\bin\Debug\net5.0\Lesson_9_Hands_On_Debugging.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\bin\Debug\net5.0\Lesson_9_Hands_On_Debugging.dll
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\bin\Debug\net5.0\ref\Lesson_9_Hands_On_Debugging.dll
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\bin\Debug\net5.0\Lesson_9_Hands_On_Debugging.pdb
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\obj\Debug\net5.0\Lesson_9_Hands_On_Debugging.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\obj\Debug\net5.0\Lesson_9_Hands_On_Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\obj\Debug\net5.0\Lesson_9_Hands_On_Debugging.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\obj\Debug\net5.0\Lesson_9_Hands_On_Debugging.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\obj\Debug\net5.0\Lesson_9_Hands_On_Debugging.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\obj\Debug\net5.0\Lesson_9_Hands_On_Debugging.dll
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\obj\Debug\net5.0\ref\Lesson_9_Hands_On_Debugging.dll
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\obj\Debug\net5.0\Lesson_9_Hands_On_Debugging.pdb
+C:\Users\USER\source\repos\Lesson_9_Hands_On_Debugging\obj\Debug\net5.0\Lesson_9_Hands_On_Debugging.genruntimeconfig.cache
