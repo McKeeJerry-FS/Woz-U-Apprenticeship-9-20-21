@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\bin\Debug\net5.0\DailyPractice 4.exe
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\bin\Debug\net5.0\DailyPractice 4.deps.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\bin\Debug\net5.0\DailyPractice 4.runtimeconfig.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\bin\Debug\net5.0\DailyPractice 4.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\bin\Debug\net5.0\DailyPractice 4.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\bin\Debug\net5.0\ref\DailyPractice 4.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\bin\Debug\net5.0\DailyPractice 4.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\obj\Debug\net5.0\DailyPractice 4.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\obj\Debug\net5.0\DailyPractice 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\obj\Debug\net5.0\DailyPractice 4.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\obj\Debug\net5.0\DailyPractice 4.AssemblyInfo.cs
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\obj\Debug\net5.0\DailyPractice 4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\obj\Debug\net5.0\DailyPractice 4.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\obj\Debug\net5.0\ref\DailyPractice 4.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\obj\Debug\net5.0\DailyPractice 4.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\DailyPractice\DailyPractice 4\obj\Debug\net5.0\DailyPractice 4.genruntimeconfig.cache
