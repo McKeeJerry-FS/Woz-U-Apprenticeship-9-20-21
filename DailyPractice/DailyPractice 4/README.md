@@ -1,6 +1,6 @@
 # Daily Practice: 09/28/2021
 
-This rpogram was written as a result of an after practice discussions.
+This pogram was written as a result of an after practice discussions.
 This particular program uses a Validation Method
 
 ## Validation Method 
