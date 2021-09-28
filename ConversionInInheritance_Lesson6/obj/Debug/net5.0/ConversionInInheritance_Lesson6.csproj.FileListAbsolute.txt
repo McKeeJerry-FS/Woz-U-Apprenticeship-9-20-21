@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\bin\Debug\net5.0\ConversionInInheritance_Lesson6.exe
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\bin\Debug\net5.0\ConversionInInheritance_Lesson6.deps.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\bin\Debug\net5.0\ConversionInInheritance_Lesson6.runtimeconfig.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\bin\Debug\net5.0\ConversionInInheritance_Lesson6.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\bin\Debug\net5.0\ConversionInInheritance_Lesson6.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\bin\Debug\net5.0\ref\ConversionInInheritance_Lesson6.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\bin\Debug\net5.0\ConversionInInheritance_Lesson6.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\obj\Debug\net5.0\ConversionInInheritance_Lesson6.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\obj\Debug\net5.0\ConversionInInheritance_Lesson6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\obj\Debug\net5.0\ConversionInInheritance_Lesson6.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\obj\Debug\net5.0\ConversionInInheritance_Lesson6.AssemblyInfo.cs
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\obj\Debug\net5.0\ConversionInInheritance_Lesson6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\obj\Debug\net5.0\ConversionInInheritance_Lesson6.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\obj\Debug\net5.0\ref\ConversionInInheritance_Lesson6.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\obj\Debug\net5.0\ConversionInInheritance_Lesson6.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\ConversionInInheritance_Lesson6\obj\Debug\net5.0\ConversionInInheritance_Lesson6.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConversionInInheritance_Lesson6/1.0.0": {
+        "runtime": {
+          "ConversionInInheritance_Lesson6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConversionInInheritance_Lesson6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

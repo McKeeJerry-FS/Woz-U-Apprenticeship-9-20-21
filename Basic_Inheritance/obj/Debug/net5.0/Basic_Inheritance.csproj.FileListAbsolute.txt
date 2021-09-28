@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\bin\Debug\net5.0\Basic_Inheritance.exe
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\bin\Debug\net5.0\Basic_Inheritance.deps.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\bin\Debug\net5.0\Basic_Inheritance.runtimeconfig.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\bin\Debug\net5.0\Basic_Inheritance.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\bin\Debug\net5.0\Basic_Inheritance.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\bin\Debug\net5.0\ref\Basic_Inheritance.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\bin\Debug\net5.0\Basic_Inheritance.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\obj\Debug\net5.0\Basic_Inheritance.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\obj\Debug\net5.0\Basic_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\obj\Debug\net5.0\Basic_Inheritance.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\obj\Debug\net5.0\Basic_Inheritance.AssemblyInfo.cs
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\obj\Debug\net5.0\Basic_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\obj\Debug\net5.0\Basic_Inheritance.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\obj\Debug\net5.0\ref\Basic_Inheritance.dll
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\obj\Debug\net5.0\Basic_Inheritance.pdb
+C:\Users\USER\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\Basic_Inheritance\obj\Debug\net5.0\Basic_Inheritance.genruntimeconfig.cache
