@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\bin\Debug\net5.0\Lesson10HandsOnNamespaces.exe
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\bin\Debug\net5.0\Lesson10HandsOnNamespaces.deps.json
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\bin\Debug\net5.0\Lesson10HandsOnNamespaces.runtimeconfig.json
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\bin\Debug\net5.0\Lesson10HandsOnNamespaces.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\bin\Debug\net5.0\Lesson10HandsOnNamespaces.dll
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\bin\Debug\net5.0\ref\Lesson10HandsOnNamespaces.dll
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\bin\Debug\net5.0\Lesson10HandsOnNamespaces.pdb
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\obj\Debug\net5.0\Lesson10HandsOnNamespaces.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\obj\Debug\net5.0\Lesson10HandsOnNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\obj\Debug\net5.0\Lesson10HandsOnNamespaces.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\obj\Debug\net5.0\Lesson10HandsOnNamespaces.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\obj\Debug\net5.0\Lesson10HandsOnNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\obj\Debug\net5.0\Lesson10HandsOnNamespaces.dll
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\obj\Debug\net5.0\ref\Lesson10HandsOnNamespaces.dll
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\obj\Debug\net5.0\Lesson10HandsOnNamespaces.pdb
+C:\Users\USER\source\repos\Lesson10HandsOnNamespaces\obj\Debug\net5.0\Lesson10HandsOnNamespaces.genruntimeconfig.cache
