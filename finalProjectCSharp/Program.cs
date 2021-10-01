@@ -2,6 +2,7 @@
 using System.IO;
 using System.Collections;
 using System.Collections.Generic;
+using finalProjectCSharp;
 
 
 /*
@@ -185,6 +186,7 @@ static class TaxCalculator
     public static decimal ComputeTaxFor(string state, decimal amountEarned)
     {
         List<TaxRecord> records;
+        
         bool found = states.TryGetValue(state, out records);
 
         if (found)
@@ -300,10 +302,10 @@ class EmployeeRecord
     public int Id { get; set; }
     public string Name { get; set; }
     public string StateCode { get; set; }
-    public double HoursWorkedInTheYear { get; set; }
+    public decimal HoursWorkedInTheYear { get; set; }
     public decimal HourlyRate { get; set; }
     public decimal YearlyPay { get; }
-    public decimal TotalTaxDue { get { return TaxCalculator.ComputeTaxFor(StateCode, YearlyPay); } }
+    public decimal TotalTaxDue { get; }
 
     //    provide a constructor that takes a csv and initializes the employeerecord
     //       do all error checking and throw appropriate exceptions
@@ -332,8 +334,8 @@ class EmployeeRecord
             }
             Name = items[1];
             StateCode = items[2];
-            double hours;
-            if (double.TryParse(items[3], out hours))
+            decimal hours;
+            if (decimal.TryParse(items[3], out hours))
             {
                 HoursWorkedInTheYear = hours;
             }
@@ -350,7 +352,8 @@ class EmployeeRecord
             {
                 throw new Exception($"Invalid HourlyRate, not a decimal: '{items[4]}' in csv '{csv}'");
             }
-            
+            decimal YearlyPay = decimal.Round(rate * hours);
+            decimal TotalTaxDue = TaxCalculator.ComputeTaxFor(StateCode, YearlyPay);
             
            
         }
@@ -365,15 +368,7 @@ class EmployeeRecord
         return $"Tax Information for Employee: {Name}: Yearly Pay: {YearlyPay,5} Total Tax Due: {TotalTaxDue,5}";
     }
 
-    public static decimal CalculateTotalTaxDue()
-    {
-        decimal TotalTaxDue = 0;
-
-
-
-
-        return TotalTaxDue;
-    }
+    
 }
 
 static class EmployeesList
@@ -425,6 +420,8 @@ static class EmployeesList
         {
             employees[i].ToString();
         }
+        UI.Header("Press any key to return to the Main Menu");
+        Console.ReadKey();
     }
 }
 
