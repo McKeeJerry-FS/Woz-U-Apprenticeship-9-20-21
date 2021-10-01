@@ -6,9 +6,10 @@ using System.Collections.Generic;
 
 /*
 Jerry McKee Jr.
-10/01/2021
+09/27/2021
 Woz-U Apprenticeship Training
 Final Project for C# Core
+updated on 10/01/2021
 */
 
 namespace finalProjectCSharp
