@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = finalProject
-build_property.ProjectDir = C:\Users\USER\OneDrive\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\finalProject\
+build_property.RootNamespace = finalProjectCSharp
+build_property.ProjectDir = C:\Users\USER\OneDrive\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\finalProjectCSharp\

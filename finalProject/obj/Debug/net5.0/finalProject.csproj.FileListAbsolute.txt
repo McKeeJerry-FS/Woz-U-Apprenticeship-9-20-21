@@ -1,0 +1,5 @@
+C:\Users\USER\OneDrive\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\finalProject\obj\Debug\net5.0\finalProject.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\finalProject\obj\Debug\net5.0\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\finalProject\obj\Debug\net5.0\finalProject.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\finalProject\obj\Debug\net5.0\finalProject.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\Repos\Woz-U-Apprenticeship-9-20-21\finalProject\obj\Debug\net5.0\finalProject.csproj.CoreCompileInputs.cache

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\Repos\\Woz-U-Apprenticeship-9-20-21\\finalProject\\finalProject.csproj",
-      "projectName": "finalProject",
-      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Repos\\Woz-U-Apprenticeship-9-20-21\\finalProject\\finalProject.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\Repos\\Woz-U-Apprenticeship-9-20-21\\finalProjectCSharp\\finalProjectCSharp.csproj",
+      "projectName": "finalProjectCSharp",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Repos\\Woz-U-Apprenticeship-9-20-21\\finalProjectCSharp\\finalProjectCSharp.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Repos\\Woz-U-Apprenticeship-9-20-21\\finalProject\\obj\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Repos\\Woz-U-Apprenticeship-9-20-21\\finalProjectCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
