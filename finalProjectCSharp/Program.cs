@@ -309,16 +309,17 @@ class EmployeeRecord
 
     //    provide a constructor that takes a csv and initializes the employeerecord
     //       do all error checking and throw appropriate exceptions
-
+    
     public EmployeeRecord(string csv)
     {
+        
         string[] items = csv.Split(',');
         StreamReader reader = null;
         try
         {
            
-            reader = File.OpenText(csv);
-            string line;
+            reader = File.OpenText("../../../employees.csv");
+            //string line;
             if (items.Length != 5)
             {
                 throw new Exception($"Invalid number of items in csv string: Expecting 5, found: {items.Length}");
@@ -341,7 +342,8 @@ class EmployeeRecord
             }
             else
             {
-                throw new Exception($"Invalid HoursWorkedInAYear, not a double: '{items[3]}' in csv '{csv}'");
+                throw new Exception($"Invalid HoursWorkedInAYear, not a decimal" +
+                    $": '{items[3]}' in csv '{csv}'");
             }
             decimal rate;
             if (decimal.TryParse(items[4], out rate))
@@ -381,12 +383,12 @@ static class EmployeesList
     //   because we are not accessing the employees by state,  we are accessing the employees sequentially as a list
     static EmployeesList()
     {
-        string csv = "../../../employees.csv";
+        //string csv = "../../../employees.csv";
         StreamReader reader = null;
         try
         {
             employees = new List<EmployeeRecord>();
-            reader = File.OpenText(csv);
+            reader = File.OpenText("../../../employees.csv");
             string line;
             do
             {
